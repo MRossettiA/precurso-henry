@@ -1,2 +1,1 @@
-# precurso-henry
-se guardan todos los archivos para el precurso
+este proyecto es prube como clonar de mi github en la pc
